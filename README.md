@@ -13,6 +13,9 @@ print(text)
 > "...to boldly go where no one has gone before."
 
 ## Directory
+
 [Programs](code)
+
 [Data files](data)
+
 [References](references)
