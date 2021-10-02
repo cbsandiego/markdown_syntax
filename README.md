@@ -1,5 +1,6 @@
 # *FinTech Repository*
 ---
+![Three circular icons that represent a phone, the photon logo, and money.](images/fintech.png)
 
 **Welcome to my repository of FinTech projects.  Please explore the codebase!**
 
@@ -19,3 +20,5 @@ print(text)
 [Data files](data)
 
 [References](references)
+
+
