@@ -1,6 +1,6 @@
 # *FinTech Repository*
 ---
-![Three circular icons that represent a phone, the photon logo, and money.](threecircleicons.jpg)
+![Three circular icons that represent a phone, the photon logo, and money.](images/threecircleicons.jpg)
 
 **Welcome to my repository of FinTech projects.  Please explore the codebase!**
 
